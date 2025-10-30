@@ -1,4 +1,4 @@
-# Intelligent Multi-Robot Coordination System with Real-Time Computer Vision and ROS2 (v2.2)
+# Autonomous Multi-Robot Coordination System with Real-Time Computer Vision and ROS2 Integration (v2.2)
 
 <div align="center">
 
