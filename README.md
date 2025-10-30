@@ -1,4 +1,4 @@
-# Intelligent Multi-Robot Coordination System with Real-Time Computer Vision and ROS2
+# Intelligent Multi-Robot Coordination System with Real-Time Computer Vision and ROS2 (v2.2)
 
 <div align="center">
 
@@ -225,14 +225,14 @@ python3 src/communication/ros2_coordinator.py
 Once the system is running, use these keyboard controls:
 
 **Game Controls**
-- `R` - Reset game state
+- `S` - Start new game
 - `X` + `1-9` - Player X makes move (only on X's turn)
 - `O` + `1-9` - Player O makes move (only on O's turn)
-- `C` - Clear all virtual symbols
+- `T` - Show game statistics
 - `V` - Cycle through camera viewpoints (5 perspectives)
 - `1-5` - Focus on specific camera feed
-- `D` - Toggle detection overlay display
-- `G` - Print current game state to console
+- `W` - Show winning combinations
+- `ESC` - Exit
 
 ---
 
